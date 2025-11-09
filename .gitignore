@@ -1,0 +1,54 @@
+# ==============================
+# Credit Card Fraud Detection System
+# ==============================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# ---- Virtual Environments ----
+venv/
+env/
+.venv/
+ENV/
+.ipynb_checkpoints/
+
+# ---- Notebooks ----
+notebooks/.ipynb_checkpoints/
+*.ipynb
+
+# ---- Logs and Cache ----
+*.log
+logs/
+*.out
+*.err
+.cache/
+*.DS_Store
+
+# ---- Streamlit ----
+.streamlit/
+credentials.toml
+config.toml
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS / Misc ----
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# ---- Reports / Outputs ----
+outputs/
+reports/
+*.pdf
+*.html
+*.zip
