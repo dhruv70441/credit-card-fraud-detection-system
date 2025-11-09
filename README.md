@@ -19,7 +19,7 @@ This project demonstrates data preprocessing, feature engineering, model trainin
 ---
 
 ## 🏗️ Project Structure
-
+```
 Credit Card Fraud Detection System/
 │
 ├── app/
@@ -40,7 +40,7 @@ Credit Card Fraud Detection System/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
